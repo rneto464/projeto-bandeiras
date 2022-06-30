@@ -1,0 +1,52 @@
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+    body{
+    
+    background-color: dimgray;
+    margin: 0px;
+    font-family: 'Pacifico', cursive;
+    }
+    
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    
+    
+    h1{
+        text-align: center;
+        
+    
+    }
+    
+    header{
+        background-color: white;
+        padding: 5px 5px 5px 5px;
+        margin: 5px 5px 5px 5px;
+        border-radius: 13px;
+       
+    }
+    
+    p{
+        text-align: center;
+    }
+   
+
+    article {
+        background-color: lightgray;
+        padding: 3px;
+        border-radius: 13px;
+        margin-left: 5px;
+        margin-right: 5px;
+    
+    
+    }
+
+    main {
+        background-color: white;
+        padding: 10px;
+        margin:10px;
+        border-radius: 13px;
+    }

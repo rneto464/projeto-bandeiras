@@ -1,0 +1,144 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+    margin: 0px;
+    font-family: 'Pacifico', cursive;
+    font-size: 1em 
+
+
+
+}
+
+*{
+    max-width: 1295px;
+    min-width: 100px
+    
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+
+nav{
+    background-color: rgb(102, 102,102);
+    padding: 4px;
+    
+    box-shadow: 1px 1px 1px 1px black;
+    margin: auto;
+
+}
+
+ h2#t1{
+    padding-left: 2px;
+}
+
+h2.t2{
+    padding-left: 2px;
+}
+
+nav > a{
+
+    color: white;
+    padding: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+    
+   
+}
+
+nav > a:hover{
+    
+   background-color: #A6A6A6;
+   color: #000000;
+   text-decoration: none;
+   
+}
+
+
+p.formação{
+    padding: 2px 2px 2px 2px;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    margin:10px;
+   
+
+}
+
+
+
+article {
+    background-color: lightgray;
+    padding: 3px;
+    border-radius: 13px;
+
+}
+
+article#cont{
+    background-color: #CCCCCC;
+}
+
+ aside {
+    background-color: #8A9599;
+    padding: 3px;
+    border-radius: 13px;
+    
+
+}
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 0px;
+
+}
+footer > p {
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+
+p#aviso{
+    
+    text-align: center;
+}
+
+iframe{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+aside > mark{
+    text-decoration: none;
+}
+
